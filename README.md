@@ -15,7 +15,7 @@ Features
   Integrated Graphviz support to visualize computation graphs, showing data flow and gradient propagation.
 
  Minimal, Transparent Design:
-  No external ML libraries — just Python, math, and a few dozen lines of code.
+  No external ML libraries - just Python, math, and a few dozen lines of code.
 
 
 
