@@ -16,6 +16,17 @@ Currently, this repository includes a **Micrograd extension**, building a modula
 - Gradient-based optimization for custom models
 - Designed for experimentation and learning
 
+### Linear Regression
+Implemented a Linear Regression model from scratch in Python using 
+manual gradient descent,
+feature scaling,
+and loss computation
+to predict housing prices. 
+Compared performance against scikit-learn’s LinearRegression, Ridge, and Lasso models. 
+Built custom normalization, standardization, and Mean Squared Error functions, 
+visualized loss convergence, and benchmarked results on the Housing dataset.
+
+
 ---
 
 ##  Installation
